@@ -2,7 +2,7 @@
   "name": "Ace Ventura",
   "symbol": "ACE",
   "decimals": 18,
-  "logo": "https://static.wikia.nocookie.net/total-movies/images/3/31/Ace_Ventura.1.jpg/revision/latest?cb=20131124172538",
+  "logoURI": "https://static.wikia.nocookie.net/total-movies/images/3/31/Ace_Ventura.1.jpg/revision/latest?cb=20131124172538",
   "socials": {
     "website": "https://www.imdb.com/title/tt0109040/",
     "twitter": "https://twitter.com/aceventura",
