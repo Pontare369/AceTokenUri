@@ -2,10 +2,10 @@
   "name": "ACE Token",
   "symbol": "ACE",
   "decimals": 18,
-  "logoURI": "https://example.com/ace-logo.png",
+  "logoURI": "https://static.wikia.nocookie.net/total-movies/images/3/31/Ace_Ventura.1.jpg/revision/latest?cb=20131124172538",
   "socials": {
     "website": "https://www.acetoken.com",
-    "twitter": "https://twitter.com/acetoken",
-    "telegram": "https://t.me/acetokenchat"
+    "twitter": "https://twitter.com/aceventura",
+    "telegram": "https://t.me/aceventura"
   }
 }
