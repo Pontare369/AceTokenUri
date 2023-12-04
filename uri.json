@@ -1,0 +1,11 @@
+{
+  "name": "ACE Token",
+  "symbol": "ACE",
+  "decimals": 18,
+  "logoURI": "https://example.com/ace-logo.png",
+  "socials": {
+    "website": "https://www.acetoken.com",
+    "twitter": "https://twitter.com/acetoken",
+    "telegram": "https://t.me/acetokenchat"
+  }
+}
